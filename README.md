@@ -1,1 +1,1 @@
-!()[./cargowise.png]
+![_](cargowise.png)
